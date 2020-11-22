@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task4Application</string>
+    <string name="txtstart">Попробуйте угадать число от 1 до 100</string>
+    <string name="txtmany">Перелет</string>
+    <string name="txtsmall">Недолет</string>
+    <string name="txtsuc">В точку</string>
+    <string name="buttxt1">Ввести значение</string>
+    <string name="buttxt2">Сыграть еще</string>
+</resources>
